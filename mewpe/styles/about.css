@@ -1,0 +1,12 @@
+body {
+  background: rgb(218, 164, 255);
+}
+
+#heading1 {
+  color: rgb(255, 255, 161);
+}
+
+#introduction {
+  font-size: 15px;
+  color: rgb(202, 202, 0);
+}
